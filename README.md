@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, Soy Hernán</h1>
-<h3 align="center">Un apaciado de la tecnologia</h3>
 
 
 
